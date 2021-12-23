@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif !important;
+    color: white !important;
+}
+
+.mainbody{
+    height: 100vh;
+    background-color: #2a74ff;
+}
+
+.navbarCustom {
+    /* border: 2px solid red !important; */
+    background-color: #2a74ff !important;
+}
+
+.searchCustom{
+    background-color: #0655E5 !important;
+    border: 2px solid white !important;
+}
+
+.searchCustom:hover{
+    background-color: #2a74ff !important;
+    border: 2px solid white !important;
+}
+
+.menubarCustom{
+    color: white !important;
+}
+
+.menuButtonCustom{
+    border: 2px solid white !important;
+}
+
+.FrontpageCustom{
+    /* border: 2px solid red; */
+}
+
+.pageHeading{
+    font-size: 50px;
+    line-height: 1.5cm;
+}
+
+.leftSide{
+    /* border: 2px solid rgb(255, 166, 0); */
+}
+
+.featureSection{
+    display: flex;
+}
+
+.featureCircle{
+    width: 40px;
+    height: 40px;
+    border: 2px solid #ffffff ;
+    background-color: #0655E5;
+    border-radius: 50px;
+}
+
+.clock{
+    width: 25px;
+    height: 25px;
+}
+
+.rightSide{
+    /* border: 2px solid rgb(255, 255, 83); */
+}
+
+.cardCustom{
+    border-radius: 6px !important;
+    border:none;
+    /* margin-top: 40px; */
+}
+
+.cardCustomTwo{
+    position: relative;
+    top: 35px;
+}
+
+.cardImage{
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center;
+    border: none !important;
+    border-radius: 6px !important; 
+}
+
+.MidWhiteBox{
+    /* border: 2px solid green; */
+}
+
+/* for container border */
+
+.Cbox{  
+    /* border: 2px solid rgb(255, 133, 133); */
+    border-radius: 6px;
+}
+
+.midWhiteBox{
+    /* border: 2px solid orange; */
+}
+
+.colBox{
+    /* border: 2px solid red; */
+}
+
+.circleIcon{
+    /* border: 2px solid grey; */
+    background-color: grey;
+    width: 36px;
+    height: 36px;
+    border-radius: 18px;
+    box-shadow: 2px 0 50px -2px #FFFFFF;
+}
+
+.boxHeading{
+    padding-left: 10px;
+}
+
+.boxContent{
+    padding-left: 62px ;
+}
+
+.customExerciseCard{
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(3,0,255,1) 0%, rgba(55,174,255,1) 100%) !important;
+    border: none !important;
+    padding: 6px;
+}
+
+.customIcons{
+    height: 20px;
+}
+
+
+.workoutImgResize{
+    height: 400px;
+    border-radius: 6px;
+}
+
+.SixIcons{
+/* border: 2px solid #D7DAFC; */
+background-color: #D7DAFC;
+border-radius: 26px;
+width: 52px;
+height: 52px;
+}
+
+.cardSection{
+    /* border: 2px solid red; */
+}
+
+.SixCardcustomIcons{
+    height: 32px;
+}
