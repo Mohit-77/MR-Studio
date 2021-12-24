@@ -5,7 +5,7 @@
     color: white !important;
 }
 
-.mainbody{
+.mainbody {
     height: 100vh;
     background-color: #2a74ff;
 }
@@ -15,97 +15,97 @@
     background-color: #2a74ff !important;
 }
 
-.searchCustom{
+.searchCustom {
     background-color: #0655E5 !important;
     border: 2px solid white !important;
 }
 
-.searchCustom:hover{
+.searchCustom:hover {
     background-color: #2a74ff !important;
     border: 2px solid white !important;
 }
 
-.menubarCustom{
+.menubarCustom {
     color: white !important;
 }
 
-.menuButtonCustom{
+.menuButtonCustom {
     border: 2px solid white !important;
 }
 
-.FrontpageCustom{
+.FrontpageCustom {
     /* border: 2px solid red; */
 }
 
-.pageHeading{
+.pageHeading {
     font-size: 50px;
     line-height: 1.5cm;
 }
 
-.leftSide{
+.leftSide {
     /* border: 2px solid rgb(255, 166, 0); */
 }
 
-.featureSection{
+.featureSection {
     display: flex;
 }
 
-.featureCircle{
+.featureCircle {
     width: 40px;
     height: 40px;
-    border: 2px solid #ffffff ;
+    border: 2px solid #ffffff;
     background-color: #0655E5;
     border-radius: 50px;
 }
 
-.clock{
+.clock {
     width: 25px;
     height: 25px;
 }
 
-.rightSide{
+.rightSide {
     /* border: 2px solid rgb(255, 255, 83); */
 }
 
-.cardCustom{
+.cardCustom {
     border-radius: 6px !important;
-    border:none;
+    border: none;
     /* margin-top: 40px; */
 }
 
-.cardCustomTwo{
+.cardCustomTwo {
     position: relative;
     top: 35px;
 }
 
-.cardImage{
-    background-size:     cover;                      
-    background-repeat:   no-repeat;
+.cardImage {
+    background-size: cover;
+    background-repeat: no-repeat;
     background-position: center center;
     border: none !important;
-    border-radius: 6px !important; 
+    border-radius: 6px !important;
 }
 
-.MidWhiteBox{
+.MidWhiteBox {
     /* border: 2px solid green; */
 }
 
 /* for container border */
 
-.Cbox{  
+.Cbox {
     /* border: 2px solid rgb(255, 133, 133); */
     border-radius: 6px;
 }
 
-.midWhiteBox{
+.midWhiteBox {
     /* border: 2px solid orange; */
 }
 
-.colBox{
+.colBox {
     /* border: 2px solid red; */
 }
 
-.circleIcon{
+.circleIcon {
     /* border: 2px solid grey; */
     background-color: grey;
     width: 36px;
@@ -114,42 +114,108 @@
     box-shadow: 2px 0 50px -2px #FFFFFF;
 }
 
-.boxHeading{
+.boxHeading {
     padding-left: 10px;
 }
 
-.boxContent{
-    padding-left: 62px ;
+.boxContent {
+    padding-left: 62px;
 }
 
-.customExerciseCard{
-    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(3,0,255,1) 0%, rgba(55,174,255,1) 100%) !important;
+.customExerciseCard {
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(3, 0, 255, 1) 0%, rgba(55, 174, 255, 1) 100%) !important;
     border: none !important;
     padding: 6px;
 }
 
-.customIcons{
+.customIcons {
     height: 20px;
 }
 
 
-.workoutImgResize{
+.workoutImgResize {
     height: 400px;
     border-radius: 6px;
 }
 
-.SixIcons{
-/* border: 2px solid #D7DAFC; */
-background-color: #D7DAFC;
-border-radius: 26px;
-width: 52px;
-height: 52px;
+.SixIcons {
+    /* border: 2px solid #D7DAFC; */
+    background-color: #D7DAFC;
+    border-radius: 26px;
+    width: 52px;
+    height: 52px;
 }
 
-.cardSection{
+.cardSection {
     /* border: 2px solid red; */
 }
 
-.SixCardcustomIcons{
+.SixCardcustomIcons {
     height: 32px;
+}
+
+.sixCustomCard {
+    background-color: rgb(119, 119, 119) !important;
+    cursor: pointer;
+    border: none !important;
+    transition: 0.2     s;
+}
+
+.sixCustomCard:hover {
+    background-color: #0E43A1 !important;
+    color: white !important;
+    cursor: pointer;
+    border: none !important;
+    transition: 0.8s;
+}
+
+.moreInfoBtn {
+    transition: 0.8s;
+}
+
+
+.moreInfoBtn:hover {
+    transition: 0.8s;
+    background-color: green;
+}
+
+.threeCard {
+    border: none !important;
+    background-color: rgb(255, 255, 255) !important;
+    box-shadow: 0 13px 20px 3px #F2F2F2;
+    transition: 0.8s;
+}
+
+
+/* .threeCard:hover{
+    border: none !important;
+    background-color: #b4b4b4 !important;
+    color: white;
+} */
+
+.threeBtn {
+    width: 80px;
+    height: 30px;
+    border-radius: 20px !important;
+}
+
+.subscriptionTime {
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+    background: linear-gradient(180deg, rgba(255, 182, 43, 1) 0%, rgba(195, 210, 0, 1) 100%);
+}
+
+.threeCardRow {
+    position: relative;
+    top: 80px;
+}
+
+.imageUpdown{
+    position: relative;
+    top: 40px;
 }
