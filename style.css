@@ -43,7 +43,7 @@
 }
 
 .leftSide {
-    border: 2px solid rgb(255, 166, 0);
+    /* border: 2px solid rgb(255, 166, 0); */
 }
 
 .featureSection {
@@ -64,7 +64,7 @@
 }
 
 .rightSide {
-    border: 2px solid rgb(255, 255, 83);
+    /* border: 2px solid rgb(255, 255, 83); */
 }
 
 .cardCustom {
@@ -87,18 +87,18 @@
 }
 
 .MidWhiteBox {
-    border: 2px solid green;
+    /* border: 2px solid green; */
 }
 
 /* for container border */
 
 .Cbox {
-    border: 2px solid rgb(255, 133, 133);
+    /* border: 2px solid rgb(255, 133, 133); */
     border-radius: 6px;
 }
 
 .midWhiteBox {
-    border: 2px solid orange;
+    /* border: 2px solid orange; */
 }
 
 .colBox {
