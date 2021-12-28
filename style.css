@@ -33,18 +33,18 @@
     border: 2px solid white !important;
 }
 
-.FrontpageCustom {
-    /* border: 2px solid red; */
-}
+/* .FrontpageCustom {
+    border: 2px solid red;
+} */
 
 .pageHeading {
     font-size: 50px;
     line-height: 1.5cm;
 }
 
-.leftSide {
-    /* border: 2px solid rgb(255, 166, 0); */
-}
+/* .leftSide {
+    border: 2px solid rgb(255, 166, 0);
+} */
 
 .featureSection {
     display: flex;
@@ -62,10 +62,10 @@
     width: 25px;
     height: 25px;
 }
-
+/* 
 .rightSide {
-    /* border: 2px solid rgb(255, 255, 83); */
-}
+    border: 2px solid rgb(255, 255, 83);
+} */
 
 .cardCustom {
     border-radius: 6px !important;
@@ -86,9 +86,9 @@
     border-radius: 6px !important;
 }
 
-.MidWhiteBox {
-    /* border: 2px solid green; */
-}
+/* .MidWhiteBox {
+    border: 2px solid green;
+} */
 
 /* for container border */
 
@@ -97,13 +97,13 @@
     border-radius: 6px;
 }
 
-.midWhiteBox {
-    /* border: 2px solid orange; */
-}
+/* .midWhiteBox {
+    border: 2px solid orange;
+} */
 
-.colBox {
-    /* border: 2px solid red; */
-}
+/* .colBox {
+    border: 2px solid red;
+} */
 
 .circleIcon {
     /* border: 2px solid grey; */
@@ -146,9 +146,9 @@
     height: 52px;
 }
 
-.cardSection {
-    /* border: 2px solid red; */
-}
+/* .cardSection {
+    border: 2px solid red;
+} */
 
 .SixCardcustomIcons {
     height: 32px;
